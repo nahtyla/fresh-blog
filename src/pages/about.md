@@ -1,6 +1,8 @@
 ---
-title: About Me
-subtitle: This is a short page about me and my work.
+title: Liv
+subtitle: >-
+  Welcome to my 'About Me' section! There's a lot to know, but the gist of it is
+  below.
 img_path: images/about.jpg
 menus:
   main:
