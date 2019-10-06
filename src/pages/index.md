@@ -1,11 +1,12 @@
 ---
-title: Main Page
+title: Home
 sections:
   - component: HeroBlock
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
     section_id: hero
+    title: blah
     type: heroblock
   - actions:
       - label: Contact Me
