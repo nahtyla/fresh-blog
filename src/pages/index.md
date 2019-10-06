@@ -6,9 +6,7 @@ sections:
     section_id: hero
     title: 'Hey, I''m Liv.'
     type: heroblock
-  - actions:
-      - label: Contact Me
-        url: /contact
+  - actions: []
     component: ContentBlock
     content: >-
       This is my blog!
