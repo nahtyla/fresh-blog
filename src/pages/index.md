@@ -2,23 +2,32 @@
 title: Home
 sections:
   - component: HeroBlock
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: ''
     section_id: hero
-    title: blah
+    title: 'Hey, I''m Liv.'
     type: heroblock
   - actions:
       - label: Contact Me
         url: /contact
     component: ContentBlock
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
-    section_id: about
-    title: About
+      This is my blog!
+
+
+
+
+      You've somehow stumbled upon this website and I welcome you with open
+      arms, and I hope you're not disappointed by what you find. This blog is
+      dedicated to my views and opinions, so therefore it may not be for
+      everyone, but if you want to know how I, Liv, feel about humanity than I
+      hope you'll sit back, relax, and browse this mess of a blog.
+
+
+
+
+      You're welcome and sorry in advance.
+    section_id: ''
+    title: Where am I?
     type: contentblock
   - actions:
       - label: View Blog
