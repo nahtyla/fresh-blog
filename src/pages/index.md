@@ -33,7 +33,7 @@ sections:
     component: PostsBlock
     num_posts_displayed: 4
     section_id: recent-posts
-    title: Recent Posts
+    title: Latest Posts
     type: postsblock
 menus:
   main:
