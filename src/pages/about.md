@@ -3,20 +3,19 @@ title: Liv
 subtitle: >-
   Welcome to my 'About Me' section! There's a lot to know, but the gist of it is
   below.
-img_path: images/about.jpg
+img_path: ''
 menus:
   main:
     title: About
     weight: 4
 template: page
 ---
+**Hello!** 
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+****
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+  **** I started creating this blog in October of 2019. I've always been opinionated and I decided I wanted to share what I was thinking with others. Online, of course. I decided to start a website and now here I am, sitting behind my fathers old laptop that barely works and typing up a paragraph about myself that may never even be read by anyone else. Crazy, really, but that's it.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
 
-*Thank You for reading!*
+\- Liv
